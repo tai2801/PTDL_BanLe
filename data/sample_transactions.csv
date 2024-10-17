@@ -1,0 +1,1001 @@
+invoice_id,invoice_date,customer_id,product_id,product_name,category,quantity,unit_price,unit_cost,discount_pct,branch,region,channel
+HD004784,2023-06-22,KH0965,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD009078,2023-11-18,KH0291,SP029,Dầu gội 650ml,Mỹ phẩm,2,179000,121720,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD008730,2023-11-08,KH0125,SP024,Quần jean,Thời trang,1,590000,401200,0.1,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD010366,2023-12-19,KH0504,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD020176,2024-11-19,KH0434,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD009122,2023-11-19,KH0538,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD015042,2024-05-23,KH0640,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD012524,2024-02-19,KH0946,SP004,Loa Soundbar,Điện tử,2,2490000,1693200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD012317,2024-02-12,KH0370,SP012,Máy xay sinh tố,Gia dụng,1,890000,605200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD027551,2025-08-07,KH0804,SP037,Thảm yoga,Thể thao,1,349000,237320,0.05,Chi nhánh Quận 1,TP.HCM,Online
+HD028964,2025-09-28,KH0473,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD018224,2024-09-20,KH0990,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD014172,2024-04-22,KH0564,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.05,Chi nhánh Hà Nội,Hà Nội,Offline
+HD011983,2024-01-31,KH0605,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD024910,2025-04-20,KH0221,SP035,Gạo ST25 5kg,Thực phẩm,2,139000,94520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD011620,2024-01-20,KH1035,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD014329,2024-04-28,KH0969,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD020064,2024-11-16,KH0603,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD016766,2024-07-29,KH0665,SP037,Thảm yoga,Thể thao,1,349000,237320,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD008382,2023-10-30,KH1075,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD023803,2025-03-08,KH0890,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD014817,2024-05-15,KH1001,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD024274,2025-03-26,KH1094,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD006549,2023-08-30,KH0975,SP037,Thảm yoga,Thể thao,4,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD000201,2023-01-06,KH0449,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD015222,2024-05-29,KH0986,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD013680,2024-04-03,KH0847,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD022500,2025-01-19,KH0959,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD008742,2023-11-08,KH0649,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD019615,2024-11-03,KH0471,SP034,Mật ong 500ml,Thực phẩm,2,189000,128520,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD012602,2024-02-22,KH0658,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD009459,2023-11-28,KH0427,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD030845,2025-11-26,KH0485,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD031795,2025-12-21,KH1031,SP008,Chuột không dây,Điện tử,3,349000,237320,0.15,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD015692,2024-06-15,KH0701,SP014,Quạt điều hòa,Gia dụng,3,2690000,1829200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD029446,2025-10-14,KH0017,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD029011,2025-09-30,KH0191,SP039,Xe đạp thể thao,Thể thao,1,5900000,4012000,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD031263,2025-12-07,KH0109,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD007576,2023-10-05,KH0403,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD015872,2024-06-22,KH0071,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD004906,2023-06-28,KH0556,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD021383,2024-12-21,KH0265,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD021898,2025-01-02,KH1120,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD015609,2024-06-12,KH0558,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD009076,2023-11-18,KH0254,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD016325,2024-07-10,KH0765,SP011,Nồi chiên không dầu,Gia dụng,2,1890000,1285200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD002177,2023-03-14,KH0515,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD017312,2024-08-18,KH0703,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD004831,2023-06-25,KH0154,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD026389,2025-06-19,KH1188,SP013,Nồi cơm điện,Gia dụng,1,1290000,877200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD019733,2024-11-06,KH0793,SP031,Cà phê hạt 1kg,Thực phẩm,3,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD019645,2024-11-03,KH1097,SP010,Ổ cứng SSD 512GB,Điện tử,1,1390000,945200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD021031,2024-12-12,KH0190,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD021922,2025-01-03,KH0611,SP001,Tivi 43 inch,Điện tử,1,6900000,4692000,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD017842,2024-09-07,KH0571,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD030246,2025-11-08,KH0875,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD011886,2024-01-28,KH0591,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD018419,2024-09-27,KH0765,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD028323,2025-09-06,KH0086,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD001394,2023-02-11,KH0822,SP031,Cà phê hạt 1kg,Thực phẩm,2,289000,196520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD012160,2024-02-06,KH0946,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD019855,2024-11-09,KH1160,SP034,Mật ong 500ml,Thực phẩm,2,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD023108,2025-02-08,KH1048,SP036,Dầu ô liu 500ml,Thực phẩm,2,169000,114920,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD018863,2024-10-12,KH0082,SP024,Quần jean,Thời trang,1,590000,401200,0.05,Chi nhánh Quận 1,TP.HCM,Online
+HD006827,2023-09-09,KH0991,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD002672,2023-04-01,KH0975,SP007,Cáp HDMI 2m,Điện tử,2,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD003568,2023-05-07,KH0099,SP006,Máy tính bảng,Điện tử,1,4290000,2917200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD004087,2023-05-26,KH0340,SP001,Tivi 43 inch,Điện tử,1,6900000,4692000,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD015985,2024-06-27,KH0408,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD029363,2025-10-11,KH0611,SP005,Điện thoại tầm trung,Điện tử,2,5490000,3733200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD026092,2025-06-06,KH0966,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.1,Chi nhánh Quận 1,TP.HCM,Online
+HD004293,2023-06-03,KH0512,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.1,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD021693,2024-12-29,KH0258,SP036,Dầu ô liu 500ml,Thực phẩm,3,169000,114920,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD017531,2024-08-27,KH0310,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD008656,2023-11-06,KH0627,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.1,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD021816,2024-12-31,KH1026,SP006,Máy tính bảng,Điện tử,3,4290000,2917200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD023319,2025-02-17,KH0041,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD001364,2023-02-10,KH0379,SP038,Tạ tay 5kg (cặp),Thể thao,2,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD026162,2025-06-10,KH0298,SP007,Cáp HDMI 2m,Điện tử,2,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD012007,2024-02-01,KH0295,SP037,Thảm yoga,Thể thao,3,349000,237320,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD002195,2023-03-15,KH0059,SP009,Bàn phím cơ,Điện tử,2,1190000,809200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD031156,2025-12-04,KH0588,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD020276,2024-11-22,KH0930,SP007,Cáp HDMI 2m,Điện tử,3,149000,101320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD030726,2025-11-22,KH1106,SP026,Sữa rửa mặt,Mỹ phẩm,-2,189000,128520,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD012892,2024-03-05,KH0834,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD003110,2023-04-18,KH1072,SP035,Gạo ST25 5kg,Thực phẩm,2,139000,94520,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD016288,2024-07-09,KH0096,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD015191,2024-05-28,KH1014,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD010566,2023-12-23,KH1036,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD026486,2025-06-24,KH0376,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD009156,2023-11-20,KH0820,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD025676,2025-05-20,KH0528,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD017145,2024-08-12,KH0471,SP029,Dầu gội 650ml,Mỹ phẩm,2,179000,121720,0.1,Chi nhánh Hà Nội,Hà Nội,Offline
+HD011904,2024-01-29,KH0212,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD012112,2024-02-05,KH0449,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD002663,2023-04-01,KH0570,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD002980,2023-04-13,KH0417,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD013861,2024-04-09,KH1081,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD002280,2023-03-18,KH0657,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD014663,2024-05-10,KH0608,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.15,Chi nhánh Hà Nội,Hà Nội,Offline
+HD003117,2023-04-19,KH0154,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD025991,2025-06-01,KH1195,SP018,Chảo chống dính,Gia dụng,2,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD007824,2023-10-12,KH1200,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD012611,2024-02-22,KH1048,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,2,149000,101320,0.1,Chi nhánh Quận 1,TP.HCM,Offline
+HD030132,2025-11-05,KH0496,SP037,Thảm yoga,Thể thao,1,349000,237320,0.05,Chi nhánh Hà Nội,Hà Nội,Online
+HD018551,2024-10-02,KH0165,SP025,Kem chống nắng,Mỹ phẩm,3,329000,223720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD027663,2025-08-11,KH0914,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD001214,2023-02-04,KH0784,SP037,Thảm yoga,Thể thao,1,349000,237320,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD000396,2023-01-11,KH1074,SP022,Túi xách nữ,Thời trang,2,890000,605200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD016795,2024-07-30,KH0758,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD000184,2023-01-05,KH1014,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD029466,2025-10-14,KH0657,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD003166,2023-04-21,KH0047,SP008,Chuột không dây,Điện tử,3,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD013037,2024-03-10,KH1073,SP027,Serum dưỡng da,Mỹ phẩm,2,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD029591,2025-10-18,KH0590,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD001368,2023-02-10,KH0671,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD019658,2024-11-04,KH0411,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD002348,2023-03-20,KH0671,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD019813,2024-11-08,KH0879,SP027,Serum dưỡng da,Mỹ phẩm,2,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD018346,2024-09-25,KH0073,SP016,Ấm siêu tốc,Gia dụng,4,390000,265200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD023870,2025-03-11,KH0209,SP026,Sữa rửa mặt,Mỹ phẩm,4,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD018948,2024-10-14,KH0914,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD006576,2023-08-31,KH0934,SP008,Chuột không dây,Điện tử,3,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD028105,2025-08-29,KH0301,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD002117,2023-03-12,KH0237,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD019974,2024-11-13,KH0675,SP002,Laptop văn phòng,Điện tử,1,14500000,9860000,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD002136,2023-03-13,KH0166,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD005139,2023-07-07,KH0767,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD009429,2023-11-27,KH0636,SP041,Balo leo núi,Thể thao,1,690000,469200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD007802,2023-10-12,KH0254,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD014289,2024-04-27,KH0187,SP025,Kem chống nắng,Mỹ phẩm,3,329000,223720,0.05,Chi nhánh Hà Nội,Hà Nội,Offline
+HD030051,2025-11-02,KH1169,SP011,Nồi chiên không dầu,Gia dụng,2,1890000,1285200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD024534,2025-04-06,KH0292,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD027150,2025-07-21,KH0319,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD008163,2023-10-23,KH0291,SP032,Trà ô long 500g,Thực phẩm,2,159000,108120,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD022472,2025-01-19,KH0082,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.05,Chi nhánh Hà Nội,Hà Nội,Offline
+HD003448,2023-05-03,KH0059,SP003,Tai nghe Bluetooth,Điện tử,2,790000,537200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD009192,2023-11-21,KH0611,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD004777,2023-06-22,KH0713,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD003641,2023-05-09,KH1111,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD016664,2024-07-25,KH0763,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD004945,2023-06-29,KH0946,SP034,Mật ong 500ml,Thực phẩm,2,189000,128520,0.15,Chi nhánh Hà Nội,Hà Nội,Offline
+HD030341,2025-11-11,KH0387,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD011281,2024-01-11,KH0005,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD008304,2023-10-28,KH0449,SP037,Thảm yoga,Thể thao,3,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD027946,2025-08-22,KH0361,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD000489,2023-01-14,KH0674,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD011861,2024-01-27,KH0853,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD022804,2025-01-28,KH0946,SP019,Áo sơ mi nam,Thời trang,2,499000,339320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD020410,2024-11-26,KH0652,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD006109,2023-08-14,KH0953,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD006435,2023-08-26,KH0612,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD015687,2024-06-15,KH0527,SP010,Ổ cứng SSD 512GB,Điện tử,1,1390000,945200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD023923,2025-03-13,KH0539,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD026906,2025-07-11,KH0256,SP006,Máy tính bảng,Điện tử,1,4290000,2917200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD016807,2024-07-30,KH1167,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD007848,2023-10-13,KH0722,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD019444,2024-10-29,KH1189,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.15,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD013984,2024-04-14,KH0650,SP034,Mật ong 500ml,Thực phẩm,3,189000,128520,0.1,Chi nhánh Hà Nội,Hà Nội,Offline
+HD010870,2023-12-31,KH0765,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD015315,2024-06-01,KH0958,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD002882,2023-04-09,KH0926,SP008,Chuột không dây,Điện tử,2,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD007377,2023-09-28,KH0879,SP013,Nồi cơm điện,Gia dụng,2,1290000,877200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD018886,2024-10-12,KH0928,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD022452,2025-01-18,KH0755,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD017065,2024-08-09,KH0678,SP022,Túi xách nữ,Thời trang,3,890000,605200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD007662,2023-10-07,,SP021,Giày sneaker,Thời trang,2,1290000,877200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD020803,2024-12-06,KH0909,SP010,Ổ cứng SSD 512GB,Điện tử,1,1390000,945200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD014733,2024-05-12,KH1037,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD025977,2025-06-01,KH0675,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD002090,2023-03-11,KH0318,SP008,Chuột không dây,Điện tử,1,349000,237320,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD006951,2023-09-14,KH0571,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD004127,2023-05-28,KH0167,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD013054,2024-03-11,KH0563,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD023325,2025-02-17,KH0281,SP018,Chảo chống dính,Gia dụng,2,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD009438,2023-11-27,KH1022,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD003851,2023-05-18,KH0171,SP014,Quạt điều hòa,Gia dụng,3,2690000,1829200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD020585,2024-12-01,KH0503,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD023651,2025-03-02,KH0833,SP006,Máy tính bảng,Điện tử,1,4290000,2917200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD003973,2023-05-22,KH0567,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD000433,2023-01-13,KH0108,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD023269,2025-02-15,KH0245,SP011,Nồi chiên không dầu,Gia dụng,2,1890000,1285200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD032115,2025-12-29,KH0169,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD013063,2024-03-11,KH0955,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD027393,2025-07-31,KH1059,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD022546,2025-01-21,KH0344,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD001957,2023-03-06,KH0586,SP042,Vợt cầu lông,Thể thao,2,549000,373320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD023290,2025-02-15,KH1110,SP036,Dầu ô liu 500ml,Thực phẩm,2,169000,114920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD032051,2025-12-27,KH0754,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD025993,2025-06-02,KH0070,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD009428,2023-11-27,KH0622,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD012396,2024-02-15,KH0604,SP036,Dầu ô liu 500ml,Thực phẩm,3,169000,114920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD022826,2025-01-29,KH0358,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD007533,2023-10-04,KH0001,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD004476,2023-06-11,KH0156,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.1,Chi nhánh Quận 1,TP.HCM,Offline
+HD025688,2025-05-20,KH0871,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD016346,2024-07-11,KH0835,SP019,Áo sơ mi nam,Thời trang,2,499000,339320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD012471,2024-02-17,KH1147,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD024153,2025-03-21,KH0937,SP022,Túi xách nữ,Thời trang,2,890000,605200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD002198,2023-03-15,KH0203,SP024,Quần jean,Thời trang,1,590000,401200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD009357,2023-11-25,KH0912,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD022981,2025-02-04,KH0073,SP041,Balo leo núi,Thể thao,1,690000,469200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD029716,2025-10-22,KH0748,SP008,Chuột không dây,Điện tử,1,349000,237320,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD025222,2025-05-02,KH0705,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD016907,2024-08-03,KH0878,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD016152,2024-07-03,KH0899,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD011905,2024-01-29,KH0280,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD005552,2023-07-24,KH0373,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD003923,2023-05-20,KH0875,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD001521,2023-02-16,KH0623,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD015295,2024-06-01,KH0174,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD030165,2025-11-06,KH0388,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.1,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD027413,2025-08-01,KH0899,SP013,Nồi cơm điện,Gia dụng,2,1290000,877200,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD025084,2025-04-27,KH0041,SP002,Laptop văn phòng,Điện tử,1,14500000,9860000,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD015531,2024-06-10,KH0431,SP020,Váy đầm nữ,Thời trang,2,690000,469200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD024956,2025-04-22,KH0001,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.15,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD018895,2024-10-13,KH0129,SP034,Mật ong 500ml,Thực phẩm,2,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD029865,2025-10-28,KH0225,SP027,Serum dưỡng da,Mỹ phẩm,2,459000,312120,0.05,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD025955,2025-05-31,KH0879,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD006259,2023-08-20,KH0704,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD007601,2023-10-06,KH0066,SP033,Hạt điều rang 500g,Thực phẩm,2,219000,148920,0.15,Chi nhánh Hà Nội,Hà Nội,Online
+HD023331,2025-02-17,KH0846,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD013921,2024-04-12,KH0332,SP008,Chuột không dây,Điện tử,2,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD007028,2023-09-17,KH0457,SP013,Nồi cơm điện,Gia dụng,2,1290000,877200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD019857,2024-11-10,KH0061,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD020084,2024-11-16,KH1095,SP034,Mật ong 500ml,Thực phẩm,3,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD018477,2024-09-29,KH0958,SP014,Quạt điều hòa,Gia dụng,2,2690000,1829200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD026843,2025-07-08,KH0436,SP032,Trà ô long 500g,Thực phẩm,2,159000,108120,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD016931,2024-08-04,KH1073,SP031,Cà phê hạt 1kg,Thực phẩm,3,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD001278,2023-02-07,KH0371,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD001482,2023-02-14,KH1059,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.15,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD024526,2025-04-05,KH0816,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD013245,2024-03-18,KH0291,SP025,Kem chống nắng,Mỹ phẩm,3,329000,223720,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD003092,2023-04-18,KH0069,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD030679,2025-11-21,KH0735,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD003720,2023-05-13,KH0099,SP016,Ấm siêu tốc,Gia dụng,2,390000,265200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD025962,2025-05-31,KH1162,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD031408,2025-12-11,KH0017,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD025143,2025-04-29,KH0699,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD009921,2023-12-08,KH0649,SP003,Tai nghe Bluetooth,Điện tử,2,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD022857,2025-01-30,KH0321,SP008,Chuột không dây,Điện tử,1,349000,237320,0.1,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD025248,2025-05-03,KH0872,SP001,Tivi 43 inch,Điện tử,1,6900000,4692000,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD021555,2024-12-25,KH0665,SP041,Balo leo núi,Thể thao,1,690000,469200,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD020092,2024-11-17,KH0130,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD026366,2025-06-19,KH0251,SP039,Xe đạp thể thao,Thể thao,2,5900000,4012000,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD010807,2023-12-30,KH0011,SP025,Kem chống nắng,Mỹ phẩm,3,329000,223720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD010911,2024-01-01,KH0841,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD017113,2024-08-11,KH0096,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD010494,2023-12-22,KH0597,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD019495,2024-10-31,KH0364,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD009425,2023-11-27,KH0572,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD007076,2023-09-19,KH0075,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD017918,2024-09-10,KH0520,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD016925,2024-08-04,KH0767,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD024128,2025-03-21,KH0142,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD012493,2024-02-18,KH0889,SP001,Tivi 43 inch,Điện tử,1,6900000,4692000,0.1,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD018927,2024-10-14,KH0040,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD006932,2023-09-13,KH0841,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD001842,2023-03-01,KH0886,SP034,Mật ong 500ml,Thực phẩm,2,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD024408,2025-03-31,KH0937,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD006443,2023-08-26,KH0928,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD023790,2025-03-07,KH1074,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD013037,2024-03-10,KH1073,SP041,Balo leo núi,Thể thao,2,690000,469200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD019046,2024-10-17,KH0583,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD004409,2023-06-07,KH0962,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD003120,2023-04-19,KH0341,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD007845,2023-10-13,KH0639,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD000133,2023-01-04,KH0388,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD019779,2024-11-07,KH1117,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD020225,2024-11-21,KH0041,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD008928,2023-11-14,KH0101,SP032,Trà ô long 500g,Thực phẩm,3,159000,108120,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD022036,2025-01-06,KH0884,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD011567,2024-01-19,KH0977,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD010179,2023-12-14,KH0857,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD031760,2025-12-20,KH0996,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD001924,2023-03-05,KH0187,SP029,Dầu gội 650ml,Mỹ phẩm,2,179000,121720,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD031759,2025-12-20,KH0936,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.05,Chi nhánh Hà Nội,Hà Nội,Online
+HD026083,2025-06-06,KH0668,SP021,Giày sneaker,Thời trang,2,1290000,877200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD017984,2024-09-13,KH0050,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.05,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD028935,2025-09-27,KH0473,SP032,Trà ô long 500g,Thực phẩm,2,159000,108120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD005027,2023-07-02,KH1107,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD024428,2025-04-01,KH0913,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD008866,2023-11-12,KH0443,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD017214,2024-08-14,KH0805,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD000351,2023-01-10,KH0588,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD021784,2024-12-31,KH0286,SP040,Giày chạy bộ,Thể thao,1,1490000,1013200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD031372,2025-12-10,KH0232,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD016606,2024-07-23,KH0298,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD022846,2025-01-29,KH1117,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD030735,2025-11-23,KH0129,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD021292,2024-12-18,KH1162,SP016,Ấm siêu tốc,Gia dụng,2,390000,265200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD022099,2025-01-08,KH0638,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.05,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD007933,2023-10-16,KH0430,SP027,Serum dưỡng da,Mỹ phẩm,2,459000,312120,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD030038,2025-11-02,KH0739,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD010231,2023-12-15,KH0984,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD011451,2024-01-16,KH0392,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.05,Chi nhánh Quận 1,TP.HCM,Online
+HD003915,2023-05-20,KH0659,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD019449,2024-10-30,KH0069,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD031958,2025-12-25,KH0374,SP012,Máy xay sinh tố,Gia dụng,1,890000,605200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD009871,2023-12-07,KH0765,SP008,Chuột không dây,Điện tử,3,349000,237320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD005437,2023-07-19,KH0914,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD007077,2023-09-19,KH0131,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD031839,2025-12-22,KH0966,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD006509,2023-08-29,KH0496,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD007171,2023-09-21,KH1157,SP012,Máy xay sinh tố,Gia dụng,1,890000,605200,0.15,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD007624,2023-10-06,KH0835,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD007466,2023-10-02,KH0146,SP035,Gạo ST25 5kg,Thực phẩm,2,139000,94520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD002832,2023-04-07,KH1081,SP010,Ổ cứng SSD 512GB,Điện tử,1,1390000,945200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD000422,2023-01-12,KH0805,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD006528,2023-08-30,KH0032,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD016151,2024-07-03,KH0883,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD016676,2024-07-26,KH0028,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD014025,2024-04-16,KH0232,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD015831,2024-06-20,KH0946,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD014237,2024-04-25,KH0438,SP029,Dầu gội 650ml,Mỹ phẩm,3,179000,121720,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD014590,2024-05-07,KH0751,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.15,Chi nhánh Hà Nội,Hà Nội,Online
+HD011410,2024-01-15,KH0079,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD021452,2024-12-23,KH0017,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD015386,2024-06-04,KH0666,SP041,Balo leo núi,Thể thao,1,690000,469200,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD005116,2023-07-07,KH0068,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD028651,2025-09-17,KH0224,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD023153,2025-02-10,KH0641,SP039,Xe đạp thể thao,Thể thao,2,5900000,4012000,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD019243,2024-10-23,KH0889,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD030066,2025-11-03,KH0617,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD009679,2023-12-03,KH0478,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD004117,2023-05-27,KH0995,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD001088,2023-01-30,KH0964,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.15,Chi nhánh Hà Nội,Hà Nội,Offline
+HD021049,2024-12-12,KH0684,SP039,Xe đạp thể thao,Thể thao,1,5900000,4012000,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD023708,2025-03-04,KH0974,SP002,Laptop văn phòng,Điện tử,1,14500000,9860000,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD025091,2025-04-27,KH0292,SP028,Son môi,Mỹ phẩm,2,259000,176120,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD021521,2024-12-24,KH0832,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD013967,2024-04-13,KH1160,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD004811,2023-06-24,KH0027,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD012301,2024-02-11,KH0827,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD019786,2024-11-08,KH0050,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD025813,2025-05-26,KH0333,SP028,Son môi,Mỹ phẩm,2,259000,176120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD029145,2025-10-04,KH0642,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD010484,2023-12-22,KH0127,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD030971,2025-11-30,KH0388,SP011,Nồi chiên không dầu,Gia dụng,2,1890000,1285200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD009317,2023-11-24,KH0818,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD004463,2023-06-10,KH0607,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD006550,2023-08-30,KH0990,SP035,Gạo ST25 5kg,Thực phẩm,3,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD001097,2023-01-31,KH0134,SP024,Quần jean,Thời trang,1,590000,401200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD025385,2025-05-08,KH0782,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD027598,2025-08-09,KH0703,SP012,Máy xay sinh tố,Gia dụng,1,890000,605200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD005438,2023-07-19,KH1022,SP035,Gạo ST25 5kg,Thực phẩm,3,139000,94520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD027715,2025-08-13,KH0431,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD015109,2024-05-26,KH0130,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD027776,2025-08-15,KH0730,SP011,Nồi chiên không dầu,Gia dụng,2,1890000,1285200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD021178,2024-12-15,KH1043,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.05,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD014744,2024-05-13,KH0165,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD020228,2024-11-21,KH0099,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD015899,2024-06-23,KH0191,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD020060,2024-11-16,KH0491,SP039,Xe đạp thể thao,Thể thao,1,5900000,4012000,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD017677,2024-09-01,KH0758,SP040,Giày chạy bộ,Thể thao,1,1490000,1013200,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD030293,2025-11-10,KH0102,SP035,Gạo ST25 5kg,Thực phẩm,2,139000,94520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD002785,2023-04-06,KH0136,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD028588,2025-09-15,KH0030,SP011,Nồi chiên không dầu,Gia dụng,3,1890000,1285200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD001975,2023-03-07,KH0466,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD024958,2025-04-22,KH0129,SP009,Bàn phím cơ,Điện tử,3,1190000,809200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD025606,2025-05-17,KH0547,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD014503,2024-05-05,KH0069,SP012,Máy xay sinh tố,Gia dụng,1,890000,605200,0.05,Chi nhánh Hà Nội,Hà Nội,Online
+HD031145,2025-12-04,KH0291,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD018805,2024-10-10,KH0512,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.15,Chi nhánh Hà Nội,Hà Nội,Offline
+HD030781,2025-11-24,KH0617,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD001209,2023-02-04,KH0642,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD020868,2024-12-08,KH0206,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD024913,2025-04-20,KH0237,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.1,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD024839,2025-04-17,KH0675,SP041,Balo leo núi,Thể thao,1,690000,469200,0.1,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD024942,2025-04-21,KH0699,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.1,Chi nhánh Quận 1,TP.HCM,Online
+HD030635,2025-11-20,KH0206,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD006537,2023-08-30,KH0377,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD026221,2025-06-13,KH0407,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD024726,2025-04-13,KH0382,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD015619,2024-06-12,KH0899,SP036,Dầu ô liu 500ml,Thực phẩm,2,169000,114920,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD026294,2025-06-16,KH0240,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD006317,2023-08-22,KH0975,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD017881,2024-09-08,KH1178,SP033,Hạt điều rang 500g,Thực phẩm,2,219000,148920,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD028116,2025-08-29,KH0916,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD009968,2023-12-09,KH0974,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD026518,2025-06-25,KH0668,SP041,Balo leo núi,Thể thao,1,690000,469200,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD026051,2025-06-04,KH1163,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD012710,2024-02-27,KH0292,SP008,Chuột không dây,Điện tử,1,349000,237320,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD031335,2025-12-09,KH0292,SP006,Máy tính bảng,Điện tử,2,4290000,2917200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD028523,2025-09-13,KH0209,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD005826,2023-08-04,KH0498,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD011389,2024-01-14,KH0061,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD010478,2023-12-21,KH1157,SP008,Chuột không dây,Điện tử,2,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD024397,2025-03-31,KH0590,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD032092,2025-12-28,KH0611,SP032,Trà ô long 500g,Thực phẩm,2,159000,108120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD003780,2023-05-15,KH1039,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD008481,2023-11-02,KH0378,SP026,Sữa rửa mặt,Mỹ phẩm,2,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD004894,2023-06-27,KH1050,SP033,Hạt điều rang 500g,Thực phẩm,3,219000,148920,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD001479,2023-02-14,KH0878,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD022051,2025-01-07,KH0062,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD000814,2023-01-23,KH0263,SP038,Tạ tay 5kg (cặp),Thể thao,2,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD007529,2023-10-03,KH1041,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD029360,2025-10-11,KH0484,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD003604,2023-05-08,KH0572,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD018326,2024-09-24,KH0372,SP017,Bộ nồi inox 3 chiếc,Gia dụng,2,990000,673200,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD014097,2024-04-19,KH0471,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD000726,2023-01-20,KH0846,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD024713,2025-04-12,KH1188,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,2,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD024923,2025-04-20,KH0857,SP036,Dầu ô liu 500ml,Thực phẩm,2,169000,114920,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD030345,2025-11-11,KH0639,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.05,Chi nhánh Hà Nội,Hà Nội,Online
+HD026781,2025-07-05,KH0822,SP027,Serum dưỡng da,Mỹ phẩm,3,459000,312120,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD012869,2024-03-04,KH0885,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.15,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD009196,2023-11-21,KH0884,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD008063,2023-10-20,KH0211,SP012,Máy xay sinh tố,Gia dụng,2,890000,605200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD009736,2023-12-04,KH0713,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD016198,2024-07-06,KH0149,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD026979,2025-07-14,KH0457,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD025386,2025-05-08,KH0810,SP001,Tivi 43 inch,Điện tử,1,6900000,4692000,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD025148,2025-04-29,KH0920,SP041,Balo leo núi,Thể thao,1,690000,469200,0.1,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD018559,2024-10-02,KH0392,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD028874,2025-09-25,KH0075,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD004368,2023-06-06,KH0568,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD021829,2025-01-01,KH0313,SP024,Quần jean,Thời trang,3,590000,401200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD006105,2023-08-14,KH0835,SP041,Balo leo núi,Thể thao,1,690000,469200,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD025764,2025-05-24,KH0137,SP012,Máy xay sinh tố,Gia dụng,1,890000,605200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD020819,2024-12-07,KH0107,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD002654,2023-04-01,KH0101,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD007869,2023-10-14,KH0366,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD025669,2025-05-20,KH0286,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD019233,2024-10-23,KH0623,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD007248,2023-09-24,KH0693,SP041,Balo leo núi,Thể thao,1,690000,469200,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD024212,2025-03-24,KH0466,SP037,Thảm yoga,Thể thao,1,349000,237320,0.15,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD008096,2023-10-21,KH0169,SP017,Bộ nồi inox 3 chiếc,Gia dụng,2,990000,673200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD025590,2025-05-16,KH0827,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD004959,2023-06-30,KH0348,SP032,Trà ô long 500g,Thực phẩm,2,159000,108120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD021826,2025-01-01,KH0172,SP028,Son môi,Mỹ phẩm,2,259000,176120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD010733,2023-12-28,KH0063,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD009819,2023-12-06,KH0528,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD017131,2024-08-11,KH0979,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD009742,2023-12-04,KH0901,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD017304,2024-08-18,KH0515,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD021995,2025-01-05,KH0457,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD018199,2024-09-19,KH0922,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD026128,2025-06-08,KH0974,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD009550,2023-11-30,KH0775,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD029040,2025-10-01,KH0417,SP013,Nồi cơm điện,Gia dụng,1,1290000,877200,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD028589,2025-09-15,KH0038,SP012,Máy xay sinh tố,Gia dụng,1,890000,605200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD031626,2025-12-17,KH0357,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD018843,2024-10-11,KH0633,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD024769,2025-04-15,KH0172,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD029829,2025-10-26,KH0349,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD003466,2023-05-03,KH0708,SP029,Dầu gội 650ml,Mỹ phẩm,2,179000,121720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD021078,2024-12-13,KH0427,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD025963,2025-05-31,KH1165,SP024,Quần jean,Thời trang,1,590000,401200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD027633,2025-08-10,KH1189,SP023,Áo khoác gió,Thời trang,2,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD031769,2025-12-21,KH0168,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD017579,2024-08-29,KH0291,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,2,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD013786,2024-04-07,KH0357,SP010,Ổ cứng SSD 512GB,Điện tử,2,1390000,945200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD026600,2025-06-28,KH1160,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD013801,2024-04-07,KH1096,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD002975,2023-04-13,KH0153,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.1,Chi nhánh Thủ Đức,TP.HCM,Online
+HD021278,2024-12-18,KH0693,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD013991,2024-04-14,KH1000,SP004,Loa Soundbar,Điện tử,2,2490000,1693200,0.1,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD009293,2023-11-23,KH1165,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD008547,2023-11-04,KH0082,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD000033,2023-01-01,KH0910,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD017224,2024-08-15,KH0288,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD005642,2023-07-27,KH0477,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD019439,2024-10-29,KH1005,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD021226,2024-12-17,KH0030,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD022543,2025-01-21,KH0216,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD015658,2024-06-14,KH0073,SP009,Bàn phím cơ,Điện tử,3,1190000,809200,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD017596,2024-08-29,KH1110,SP003,Tai nghe Bluetooth,Điện tử,3,790000,537200,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD027689,2025-08-12,KH0636,SP024,Quần jean,Thời trang,1,590000,401200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD030663,2025-11-21,KH0174,SP040,Giày chạy bộ,Thể thao,1,1490000,1013200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD026746,2025-07-04,KH0415,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD014418,2024-05-01,KH0927,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD016196,2024-07-06,KH0001,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD014620,2024-05-08,KH1001,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD004010,2023-05-23,KH0431,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD006205,2023-08-18,KH0522,SP010,Ổ cứng SSD 512GB,Điện tử,1,1390000,945200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD005070,2023-07-04,KH1033,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD010965,2024-01-03,KH0223,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD002329,2023-03-19,KH1111,SP033,Hạt điều rang 500g,Thực phẩm,3,219000,148920,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD028013,2025-08-25,KH0129,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD003571,2023-05-07,KH0172,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,2,149000,101320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD018004,2024-09-13,KH0577,SP040,Giày chạy bộ,Thể thao,1,1490000,1013200,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD021977,2025-01-04,KH1021,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD031734,2025-12-19,KH1020,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD014116,2024-04-19,KH1166,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD007046,2023-09-17,KH1106,SP010,Ổ cứng SSD 512GB,Điện tử,1,1390000,945200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD029366,2025-10-11,KH0655,SP008,Chuột không dây,Điện tử,1,349000,237320,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD028840,2025-09-24,KH0047,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD012763,2024-02-29,KH0190,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD018528,2024-10-01,KH0313,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD015982,2024-06-27,KH0297,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD016597,2024-07-22,KH0810,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD025058,2025-04-26,KH0251,SP013,Nồi cơm điện,Gia dụng,2,1290000,877200,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD002763,2023-04-05,KH0425,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD003674,2023-05-11,KH0378,SP041,Balo leo núi,Thể thao,2,690000,469200,0.15,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD026342,2025-06-18,KH0169,SP033,Hạt điều rang 500g,Thực phẩm,3,219000,148920,0.15,Chi nhánh Thủ Đức,TP.HCM,Online
+HD015862,2024-06-21,KH0937,SP008,Chuột không dây,Điện tử,2,349000,237320,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD024806,2025-04-16,KH0457,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD028708,2025-09-18,KH0979,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD018608,2024-10-03,KH1014,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD008118,2023-10-21,KH1050,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD025484,2025-05-12,KH0740,SP016,Ấm siêu tốc,Gia dụng,3,390000,265200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD012894,2024-03-05,KH0868,SP019,Áo sơ mi nam,Thời trang,2,499000,339320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD019729,2024-11-06,KH0537,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD023398,2025-02-20,KH0004,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD018321,2024-09-24,KH0196,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD018330,2024-09-24,KH0496,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD005865,2023-08-05,KH1176,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD020346,2024-11-24,KH0707,SP016,Ấm siêu tốc,Gia dụng,2,390000,265200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD013297,2024-03-20,KH0040,SP041,Balo leo núi,Thể thao,2,690000,469200,0.15,Chi nhánh Hà Nội,Hà Nội,Online
+HD021732,2024-12-29,KH1035,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD007809,2023-10-12,KH0434,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD028129,2025-08-30,KH0282,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD013284,2024-03-19,KH0734,SP003,Tai nghe Bluetooth,Điện tử,2,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD016801,2024-07-30,KH0902,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD009381,2023-11-26,KH0348,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD019893,2024-11-11,KH0392,SP013,Nồi cơm điện,Gia dụng,2,1290000,877200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD017663,2024-08-31,KH1177,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD026275,2025-06-15,KH0705,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD021476,2024-12-23,KH0494,SP018,Chảo chống dính,Gia dụng,2,459000,312120,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD019465,2024-10-30,KH0502,SP035,Gạo ST25 5kg,Thực phẩm,2,139000,94520,0.1,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD020926,2024-12-09,KH0408,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD028214,2025-09-02,KH0282,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD017065,2024-08-09,KH0678,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD002225,2023-03-16,KH0414,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.1,Chi nhánh Quận 1,TP.HCM,Online
+HD018821,2024-10-10,KH0936,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD025948,2025-05-31,KH0558,SP029,Dầu gội 650ml,Mỹ phẩm,2,179000,121720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD015047,2024-05-23,KH0756,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.15,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD007454,2023-10-01,KH0704,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD007527,2023-10-03,KH1031,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD012079,2024-02-03,KH1119,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD012455,2024-02-17,KH0341,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD022683,2025-01-24,KH0855,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD008111,2023-10-21,KH0642,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD028196,2025-09-01,KH0763,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD029029,2025-09-30,KH0957,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD021941,2025-01-03,KH1179,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD019723,2024-11-06,KH0357,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD016583,2024-07-21,KH1031,SP012,Máy xay sinh tố,Gia dụng,2,890000,605200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD018100,2024-09-16,KH0862,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD027833,2025-08-17,KH0838,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD009555,2023-11-30,KH0932,SP007,Cáp HDMI 2m,Điện tử,2,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD007217,2023-09-23,KH0618,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD010689,2023-12-27,KH0223,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD006222,2023-08-19,KH0096,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD009721,2023-12-04,KH0209,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD007036,2023-09-17,KH0863,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD026864,2025-07-09,KH0172,SP031,Cà phê hạt 1kg,Thực phẩm,2,289000,196520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD021951,2025-01-04,KH0223,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD027426,2025-08-02,KH0515,SP032,Trà ô long 500g,Thực phẩm,3,159000,108120,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD004537,2023-06-13,KH0344,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD011653,2024-01-21,KH0937,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD021754,2024-12-30,KH0336,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,2,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD019634,2024-11-03,KH0964,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD007145,2023-09-21,KH0408,SP008,Chuột không dây,Điện tử,2,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD005009,2023-07-02,KH0295,SP029,Dầu gội 650ml,Mỹ phẩm,3,179000,121720,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD002250,2023-03-17,KH0589,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD005842,2023-08-05,KH0121,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD029568,2025-10-17,KH0947,SP039,Xe đạp thể thao,Thể thao,1,5900000,4012000,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD022175,2025-01-10,KH0727,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD021482,2024-12-23,KH0726,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD031895,2025-12-23,KH1169,SP035,Gạo ST25 5kg,Thực phẩm,2,139000,94520,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD010831,2023-12-30,KH0629,SP034,Mật ong 500ml,Thực phẩm,2,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD011058,2024-01-06,KH0172,SP004,Loa Soundbar,Điện tử,2,2490000,1693200,0.15,Chi nhánh Thủ Đức,TP.HCM,Online
+HD030603,2025-11-19,KH0296,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD010165,2023-12-14,KH0558,SP031,Cà phê hạt 1kg,Thực phẩm,2,289000,196520,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD017449,2024-08-23,KH1071,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD016107,2024-07-01,KH0802,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.1,Chi nhánh Hà Nội,Hà Nội,Offline
+HD011487,2024-01-17,KH0375,SP041,Balo leo núi,Thể thao,1,690000,469200,0.05,Chi nhánh Hà Nội,Hà Nội,Online
+HD021548,2024-12-25,KH0471,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD013550,2024-03-30,KH0336,SP034,Mật ong 500ml,Thực phẩm,2,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD016180,2024-07-05,KH0058,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD027185,2025-07-22,KH1058,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD006108,2023-08-14,KH0893,SP008,Chuột không dây,Điện tử,2,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD018377,2024-09-26,KH0207,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD018527,2024-10-01,KH0258,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD024920,2025-04-20,KH0652,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD006825,2023-09-09,KH0853,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD008449,2023-11-01,KH0726,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.15,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD020326,2024-11-24,KH0172,SP016,Ấm siêu tốc,Gia dụng,2,390000,265200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD002833,2023-04-08,KH0013,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD013679,2024-04-03,KH0841,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD011509,2024-01-17,KH1182,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD014080,2024-04-18,KH0296,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD012104,2024-02-04,KH1028,SP002,Laptop văn phòng,Điện tử,1,14500000,9860000,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD020472,2024-11-28,KH0415,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD012967,2024-03-08,KH0563,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD029806,2025-10-25,KH0505,SP021,Giày sneaker,Thời trang,3,1290000,877200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD009215,2023-11-22,KH0169,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.05,Chi nhánh Quận 1,TP.HCM,Online
+HD020288,2024-11-23,KH0023,SP029,Dầu gội 650ml,Mỹ phẩm,2,179000,121720,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD004284,2023-06-03,KH0114,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD012345,2024-02-13,KH0594,SP013,Nồi cơm điện,Gia dụng,1,1290000,877200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD022300,2025-01-14,KH0126,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD018730,2024-10-07,KH0974,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD024521,2025-04-05,KH0551,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD028491,2025-09-12,KH0194,SP028,Son môi,Mỹ phẩm,3,259000,176120,0.15,Chi nhánh Quận 1,TP.HCM,Online
+HD006656,2023-09-03,KH0785,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD023778,2025-03-07,KH0336,SP007,Cáp HDMI 2m,Điện tử,3,149000,101320,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD010685,2023-12-27,KH0118,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD017241,2024-08-15,KH0978,SP007,Cáp HDMI 2m,Điện tử,2,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD001529,2023-02-16,KH0886,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD017831,2024-09-07,KH0263,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD005451,2023-07-20,KH0444,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD001858,2023-03-02,KH0404,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD018502,2024-09-30,KH0819,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD012434,2024-02-16,KH0841,SP037,Thảm yoga,Thể thao,1,349000,237320,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD005967,2023-08-09,KH0458,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD023426,2025-02-21,KH0033,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD030294,2025-11-10,KH0136,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD022158,2025-01-10,KH0235,SP032,Trà ô long 500g,Thực phẩm,3,159000,108120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD027371,2025-07-31,KH0059,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD025135,2025-04-29,KH0333,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD001193,2023-02-04,KH0087,SP041,Balo leo núi,Thể thao,1,690000,469200,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD007335,2023-09-27,KH0815,SP021,Giày sneaker,Thời trang,2,1290000,877200,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD010424,2023-12-20,KH0861,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD022213,2025-01-11,KH0883,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD023340,2025-02-18,KH0427,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD006025,2023-08-11,KH0461,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD004203,2023-05-31,KH0063,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD005579,2023-07-25,KH0016,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD020866,2024-12-08,KH0178,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD024118,2025-03-20,KH0846,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD009349,2023-11-25,KH0821,SP041,Balo leo núi,Thể thao,1,690000,469200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD006178,2023-08-17,KH0335,SP004,Loa Soundbar,Điện tử,2,2490000,1693200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD002740,2023-04-04,KH0644,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD025743,2025-05-23,KH0264,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD013173,2024-03-15,KH0946,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD012240,2024-02-09,KH0534,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD028787,2025-09-22,KH0288,SP007,Cáp HDMI 2m,Điện tử,3,149000,101320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD021730,2024-12-29,KH1014,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD000157,2023-01-04,KH1168,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD024508,2025-04-04,KH0985,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD018837,2024-10-11,KH0546,SP026,Sữa rửa mặt,Mỹ phẩm,2,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD019366,2024-10-27,KH0232,SP014,Quạt điều hòa,Gia dụng,2,2690000,1829200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD009203,2023-11-21,KH1059,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD022046,2025-01-07,KH0022,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD008603,2023-11-05,KH0473,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD019633,2024-11-03,KH0963,SP024,Quần jean,Thời trang,1,590000,401200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD010667,2023-12-26,KH0875,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD029914,2025-10-29,KH0986,SP013,Nồi cơm điện,Gia dụng,1,1290000,877200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD014212,2024-04-24,KH0375,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD027849,2025-08-18,KH0435,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD005531,2023-07-23,KH0899,SP028,Son môi,Mỹ phẩm,2,259000,176120,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD015332,2024-06-02,KH0487,SP031,Cà phê hạt 1kg,Thực phẩm,2,289000,196520,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD015510,2024-06-09,KH0763,SP033,Hạt điều rang 500g,Thực phẩm,2,219000,148920,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD029008,2025-09-30,KH0101,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD020385,2024-11-25,KH0652,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD001227,2023-02-05,KH0118,SP023,Áo khoác gió,Thời trang,2,790000,537200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD014268,2024-04-26,KH0563,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD007713,2023-10-09,KH0695,SP018,Chảo chống dính,Gia dụng,2,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD026772,2025-07-05,KH0283,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD002361,2023-03-21,KH0100,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD000380,2023-01-11,KH0458,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD014377,2024-04-30,KH0401,SP006,Máy tính bảng,Điện tử,1,4290000,2917200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD012715,2024-02-27,KH0457,SP033,Hạt điều rang 500g,Thực phẩm,2,219000,148920,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD016928,2024-08-04,KH0902,SP023,Áo khoác gió,Thời trang,3,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD015466,2024-06-07,KH0773,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD018648,2024-10-05,KH0339,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.1,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD027802,2025-08-16,KH0471,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD000221,2023-01-06,KH1152,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD017136,2024-08-11,KH1101,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD015093,2024-05-25,KH0466,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD015290,2024-06-01,KH0060,SP038,Tạ tay 5kg (cặp),Thể thao,2,459000,312120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD003941,2023-05-21,KH0305,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD025186,2025-05-01,KH0275,SP025,Kem chống nắng,Mỹ phẩm,3,329000,223720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD024929,2025-04-21,KH0043,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD011707,2024-01-23,KH0876,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.15,Chi nhánh Thủ Đức,TP.HCM,Online
+HD030226,2025-11-08,KH0278,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.05,Chi nhánh Quận 1,TP.HCM,Online
+HD020927,2024-12-09,KH0546,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD020458,2024-11-28,KH0090,SP020,Váy đầm nữ,Thời trang,2,690000,469200,0.05,Chi nhánh Thủ Đức,TP.HCM,Online
+HD002200,2023-03-15,KH0341,SP013,Nồi cơm điện,Gia dụng,1,1290000,877200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD024401,2025-03-31,KH0678,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD029389,2025-10-12,KH0424,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD030134,2025-11-05,KH0543,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.1,Chi nhánh Thủ Đức,TP.HCM,Online
+HD017136,2024-08-11,KH1101,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD024400,2025-03-31,KH0667,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD008858,2023-11-12,KH0240,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD006526,2023-08-29,KH1182,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD014040,2024-04-16,KH0937,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD009964,2023-12-09,KH0886,SP001,Tivi 43 inch,Điện tử,1,6900000,4692000,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD014880,2024-05-18,KH0405,SP025,Kem chống nắng,Mỹ phẩm,3,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD011854,2024-01-27,KH0594,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD000095,2023-01-03,KH0485,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD003814,2023-05-17,KH0164,SP041,Balo leo núi,Thể thao,3,690000,469200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD001754,2023-02-25,KH1174,SP024,Quần jean,Thời trang,1,590000,401200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD001286,2023-02-07,KH0738,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD009970,2023-12-09,KH1113,SP035,Gạo ST25 5kg,Thực phẩm,3,139000,94520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD004827,2023-06-25,KH0080,SP041,Balo leo núi,Thể thao,1,690000,469200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD031215,2025-12-05,KH0880,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.1,Chi nhánh Quận 1,TP.HCM,Online
+HD009860,2023-12-07,KH0473,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.1,Chi nhánh Quận 1,TP.HCM,Offline
+HD020200,2024-11-20,KH0284,SP004,Loa Soundbar,Điện tử,3,2490000,1693200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD008502,2023-11-02,KH1065,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD025282,2025-05-05,KH0011,SP028,Son môi,Mỹ phẩm,2,259000,176120,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD012070,2024-02-03,KH0372,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD031269,2025-12-07,KH0351,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD018149,2024-09-18,KH0363,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD010001,2023-12-10,KH0851,SP042,Vợt cầu lông,Thể thao,3,549000,373320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD011430,2024-01-15,KH0930,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD007180,2023-09-22,KH0245,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD012043,2024-02-02,KH0373,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD000816,2023-01-23,KH0296,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD027580,2025-08-09,KH0206,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD016150,2024-07-03,KH0839,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD007911,2023-10-15,KH0886,SP037,Thảm yoga,Thể thao,1,349000,237320,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD022231,2025-01-12,KH0372,SP038,Tạ tay 5kg (cặp),Thể thao,2,459000,312120,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD019211,2024-10-22,KH1136,SP029,Dầu gội 650ml,Mỹ phẩm,3,179000,121720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD004018,2023-05-23,KH0734,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.1,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD004129,2023-05-28,KH0255,SP040,Giày chạy bộ,Thể thao,1,1490000,1013200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD020148,2024-11-18,KH0863,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD005519,2023-07-23,KH0407,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD008493,2023-11-02,KH0879,SP012,Máy xay sinh tố,Gia dụng,1,890000,605200,0.05,Chi nhánh Thủ Đức,TP.HCM,Online
+HD008709,2023-11-07,KH0629,SP004,Loa Soundbar,Điện tử,2,2490000,1693200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD028164,2025-08-31,KH0506,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD009561,2023-11-30,KH1142,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD000591,2023-01-17,KH0564,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.1,Chi nhánh Thủ Đức,TP.HCM,Online
+HD030531,2025-11-17,KH0162,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD030927,2025-11-28,KH0902,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.1,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD030827,2025-11-25,KH0969,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD015684,2024-06-15,KH0393,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD018713,2024-10-07,KH0515,SP017,Bộ nồi inox 3 chiếc,Gia dụng,2,990000,673200,0.1,Chi nhánh Hà Nội,Hà Nội,Offline
+HD022977,2025-02-03,KH1130,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.15,Chi nhánh Hà Nội,Hà Nội,Online
+HD019798,2024-11-08,KH0340,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD009812,2023-12-06,KH0292,SP008,Chuột không dây,Điện tử,3,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD023884,2025-03-11,KH0793,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD011383,2024-01-13,KH1015,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD018365,2024-09-25,KH0863,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD020062,2024-11-16,KH0543,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD026366,2025-06-19,KH0251,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD007273,2023-09-25,KH0743,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD014535,2024-05-05,KH1182,SP010,Ổ cứng SSD 512GB,Điện tử,1,1390000,945200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD003451,2023-05-03,KH0190,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.1,Chi nhánh Hà Nội,Hà Nội,Offline
+HD026573,2025-06-27,KH1014,SP015,Máy lọc nước,Gia dụng,2,4590000,3121200,0.15,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD022775,2025-01-27,KH1127,SP005,Điện thoại tầm trung,Điện tử,3,5490000,3733200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD016176,2024-07-04,KH1169,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD023855,2025-03-10,KH0805,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD005227,2023-07-10,KH1157,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD031129,2025-12-03,KH0953,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.1,Chi nhánh Hà Nội,Hà Nội,Online
+HD002127,2023-03-12,KH1014,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD022677,2025-01-24,KH0541,SP041,Balo leo núi,Thể thao,1,690000,469200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD020475,2024-11-28,KH0455,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD027324,2025-07-28,KH1178,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD007337,2023-09-27,KH0875,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD004627,2023-06-15,KH0927,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD031502,2025-12-13,KH1169,SP024,Quần jean,Thời trang,2,590000,401200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD016352,2024-07-11,KH1138,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD001576,2023-02-18,KH0748,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD020827,2024-12-07,KH0351,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD013890,2024-04-11,KH0300,SP040,Giày chạy bộ,Thể thao,2,1490000,1013200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD011628,2024-01-21,KH0129,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD007432,2023-09-30,KH1156,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD025546,2025-05-14,KH0989,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD004738,2023-06-20,KH0760,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD025224,2025-05-02,KH0872,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD018402,2024-09-26,KH1079,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD020956,2024-12-10,KH0247,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD000346,2023-01-10,KH0387,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD008192,2023-10-24,KH0389,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD016446,2024-07-15,KH0515,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD021355,2024-12-20,KH0515,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD031376,2025-12-10,KH0291,SP003,Tai nghe Bluetooth,Điện tử,2,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD025369,2025-05-08,KH0159,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD009016,2023-11-16,KH0567,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD010194,2023-12-15,KH0111,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD028726,2025-09-19,KH0469,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD001002,2023-01-28,KH0061,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD021935,2025-01-03,KH1010,SP040,Giày chạy bộ,Thể thao,3,1490000,1013200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD018792,2024-10-10,KH0158,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD030506,2025-11-16,KH0345,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD010020,2023-12-10,KH1182,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD010568,2023-12-23,KH1071,SP032,Trà ô long 500g,Thực phẩm,2,159000,108120,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD011907,2024-01-29,KH0293,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD019064,2024-10-18,KH0289,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD018955,2024-10-14,KH1047,SP037,Thảm yoga,Thể thao,2,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD015941,2024-06-25,KH0238,SP035,Gạo ST25 5kg,Thực phẩm,2,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD024343,2025-03-29,KH0516,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD021541,2024-12-25,KH0245,SP026,Sữa rửa mặt,Mỹ phẩm,2,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD020423,2024-11-27,KH0109,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD011241,2024-01-10,KH0315,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD028636,2025-09-16,KH0914,SP040,Giày chạy bộ,Thể thao,2,1490000,1013200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD019461,2024-10-30,KH0348,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD028684,2025-09-18,KH0238,SP035,Gạo ST25 5kg,Thực phẩm,2,139000,94520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD012499,2024-02-18,KH1188,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.1,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD024186,2025-03-23,KH0291,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD032197,2025-12-31,KH0589,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD031424,2025-12-11,KH0737,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD012630,2024-02-23,KH0733,SP006,Máy tính bảng,Điện tử,1,4290000,2917200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD015269,2024-05-31,KH0303,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD013328,2024-03-21,KH0323,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD028172,2025-08-31,KH0835,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD009757,2023-12-04,KH1136,SP002,Laptop văn phòng,Điện tử,1,14500000,9860000,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD005981,2023-08-09,KH0975,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD030627,2025-11-19,KH1134,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD027563,2025-08-08,KH0564,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD019034,2024-10-17,KH0161,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD004646,2023-06-16,KH0890,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD002893,2023-04-10,KH0297,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD003999,2023-05-23,KH0292,SP026,Sữa rửa mặt,Mỹ phẩm,4,189000,128520,0.05,Chi nhánh Quận 1,TP.HCM,Online
+HD016752,2024-07-29,KH0134,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD026126,2025-06-08,KH0737,SP010,Ổ cứng SSD 512GB,Điện tử,1,1390000,945200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD020469,2024-11-28,KH0363,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD003226,2023-04-23,KH1001,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD014886,2024-05-18,KH0515,SP011,Nồi chiên không dầu,Gia dụng,2,1890000,1285200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD008192,2023-10-24,KH0389,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD005297,2023-07-13,KH1000,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.05,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD019762,2024-11-07,KH0452,SP040,Giày chạy bộ,Thể thao,1,1490000,1013200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD003743,2023-05-14,KH0211,SP001,Tivi 43 inch,Điện tử,1,6900000,4692000,0.05,Chi nhánh Hà Nội,Hà Nội,Online
+HD021390,2024-12-21,KH0423,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD013527,2024-03-29,KH0310,SP009,Bàn phím cơ,Điện tử,2,1190000,809200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD014299,2024-04-27,KH0841,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD024125,2025-03-20,KH1050,SP029,Dầu gội 650ml,Mỹ phẩm,2,179000,121720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD028303,2025-09-05,KH0831,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD001583,2023-02-18,KH1169,SP010,Ổ cứng SSD 512GB,Điện tử,2,1390000,945200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD022722,2025-01-26,KH0118,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD002039,2023-03-09,KH0693,SP026,Sữa rửa mặt,Mỹ phẩm,2,189000,128520,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD008001,2023-10-18,KH0445,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD012258,2024-02-10,KH0100,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD031542,2025-12-15,KH0307,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD021458,2024-12-23,KH0206,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD002342,2023-03-20,KH0393,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD030766,2025-11-23,KH1109,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD020977,2024-12-10,KH0857,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD017906,2024-09-10,KH0165,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD013432,2024-03-25,KH0665,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD009110,2023-11-19,KH0181,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD029962,2025-10-31,KH0416,SP024,Quần jean,Thời trang,1,590000,401200,0.15,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD014017,2024-04-15,KH0818,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD027228,2025-07-24,KH0889,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD011474,2024-01-16,KH1189,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD011182,2024-01-09,KH0111,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.15,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD028475,2025-09-11,KH0591,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD005900,2023-08-07,KH0506,SP024,Quần jean,Thời trang,1,590000,401200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD021395,2024-12-21,KH0599,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD017775,2024-09-05,KH0463,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD029392,2025-10-12,KH0493,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD010869,2023-12-31,KH0740,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD013150,2024-03-14,KH0959,SP041,Balo leo núi,Thể thao,1,690000,469200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD029042,2025-10-01,KH0460,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD005627,2023-07-26,KH1194,SP035,Gạo ST25 5kg,Thực phẩm,2,139000,94520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD025991,2025-06-01,KH1195,SP017,Bộ nồi inox 3 chiếc,Gia dụng,2,990000,673200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD023327,2025-02-17,KH0624,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD027897,2025-08-20,KH0011,SP034,Mật ong 500ml,Thực phẩm,2,189000,128520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD004619,2023-06-15,KH0612,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD007315,2023-09-27,KH0043,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD027327,2025-07-29,KH0295,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD030315,2025-11-10,KH0822,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD022130,2025-01-09,KH0563,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.15,Chi nhánh Quận 1,TP.HCM,Offline
+HD020417,2024-11-26,KH0894,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD018865,2024-10-12,KH0164,SP006,Máy tính bảng,Điện tử,1,4290000,2917200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD022158,2025-01-10,KH0235,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD008059,2023-10-20,KH0083,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.1,Chi nhánh Quận 1,TP.HCM,Online
+HD007527,2023-10-03,KH1031,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD031031,2025-12-01,KH0928,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD025567,2025-05-15,KH0784,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD022695,2025-01-25,KH0129,SP005,Điện thoại tầm trung,Điện tử,1,5490000,3733200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD018063,2024-09-15,KH0563,SP040,Giày chạy bộ,Thể thao,1,1490000,1013200,0.05,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD016438,2024-07-15,KH0326,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD006673,2023-09-04,KH0401,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD022810,2025-01-28,KH1112,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD008625,2023-11-05,KH0879,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD026993,2025-07-15,KH0037,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD016752,2024-07-29,KH0134,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD030240,2025-11-08,KH0769,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD019736,2024-11-06,KH0888,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD014529,2024-05-05,KH1107,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD030116,2025-11-04,KH1071,SP013,Nồi cơm điện,Gia dụng,1,1290000,877200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD023542,2025-02-26,KH0245,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD007136,2023-09-21,KH0238,SP041,Balo leo núi,Thể thao,1,690000,469200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD031009,2025-12-01,KH0334,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD027889,2025-08-19,KH0926,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.1,Chi nhánh Quận 1,TP.HCM,Offline
+HD001254,2023-02-06,KH0234,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD009350,2023-11-25,KH0822,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD005346,2023-07-16,KH0052,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD026814,2025-07-07,KH0331,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD024468,2025-04-03,KH0343,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD031496,2025-12-13,KH0930,SP031,Cà phê hạt 1kg,Thực phẩm,3,289000,196520,0.15,Chi nhánh Hà Nội,Hà Nội,Offline
+HD027977,2025-08-23,KH0471,SP009,Bàn phím cơ,Điện tử,2,1190000,809200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD020086,2024-11-16,KH1175,SP042,Vợt cầu lông,Thể thao,2,549000,373320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD010932,2024-01-02,KH0161,SP019,Áo sơ mi nam,Thời trang,2,499000,339320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD026819,2025-07-07,KH0515,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD012682,2024-02-25,KH0894,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.05,Chi nhánh Quận 1,TP.HCM,Online
+HD010632,2023-12-25,KH0905,SP040,Giày chạy bộ,Thể thao,1,1490000,1013200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD013882,2024-04-10,KH1160,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD028438,2025-09-09,KH1145,SP012,Máy xay sinh tố,Gia dụng,1,890000,605200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD012169,2024-02-07,KH0187,SP037,Thảm yoga,Thể thao,2,349000,237320,0.05,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD009496,2023-11-29,KH0090,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD019216,2024-10-23,KH0058,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD017321,2024-08-18,KH0960,SP023,Áo khoác gió,Thời trang,1,790000,537200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD020057,2024-11-16,KH0443,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD019555,2024-11-01,KH1029,SP041,Balo leo núi,Thể thao,2,690000,469200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD014386,2024-04-30,KH0750,SP038,Tạ tay 5kg (cặp),Thể thao,1,459000,312120,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD019178,2024-10-21,KH0909,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.05,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD012428,2024-02-16,KH0661,SP037,Thảm yoga,Thể thao,1,349000,237320,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD019401,2024-10-28,KH0372,SP036,Dầu ô liu 500ml,Thực phẩm,2,169000,114920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD011002,2024-01-04,KH0457,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD032031,2025-12-27,KH0029,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD021502,2024-12-24,KH0225,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD024495,2025-04-04,KH0185,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD002327,2023-03-19,KH1026,SP027,Serum dưỡng da,Mỹ phẩm,1,459000,312120,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD032172,2025-12-30,KH0787,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.05,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD012495,2024-02-18,KH0945,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD014356,2024-04-29,KH0875,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD020461,2024-11-28,KH0168,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD023680,2025-03-03,KH0862,SP016,Ấm siêu tốc,Gia dụng,1,390000,265200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD021864,2025-01-01,KH1058,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD026930,2025-07-12,KH0320,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD031405,2025-12-10,KH1088,SP001,Tivi 43 inch,Điện tử,1,6900000,4692000,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD013320,2024-03-20,KH0899,SP041,Balo leo núi,Thể thao,1,690000,469200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD013060,2024-03-11,KH0845,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD016920,2024-08-04,KH0291,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD014858,2024-05-17,KH0372,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD003424,2023-05-02,KH0509,SP013,Nồi cơm điện,Gia dụng,1,1290000,877200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD000102,2023-01-03,KH0755,SP025,Kem chống nắng,Mỹ phẩm,2,329000,223720,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD029243,2025-10-07,KH0699,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD008349,2023-10-29,KH0931,SP002,Laptop văn phòng,Điện tử,3,14500000,9860000,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD022759,2025-01-27,KH0522,SP032,Trà ô long 500g,Thực phẩm,1,159000,108120,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD010047,2023-12-11,KH0738,SP041,Balo leo núi,Thể thao,2,690000,469200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD000338,2023-01-10,KH0111,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD001084,2023-01-30,KH0916,SP041,Balo leo núi,Thể thao,1,690000,469200,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD000373,2023-01-11,KH0023,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD016726,2024-07-27,KH1130,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.05,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD004263,2023-06-02,KH0451,SP018,Chảo chống dính,Gia dụng,1,459000,312120,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD008164,2023-10-23,KH0321,SP040,Giày chạy bộ,Thể thao,1,1490000,1013200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD016520,2024-07-18,KH0658,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,2,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD018390,2024-09-26,KH0674,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD007238,2023-09-24,KH0149,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD016096,2024-07-01,KH0216,SP014,Quạt điều hòa,Gia dụng,1,2690000,1829200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD011379,2024-01-13,KH0899,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD026615,2025-06-29,KH0639,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.05,Chi nhánh Quận 1,TP.HCM,Offline
+HD026291,2025-06-16,KH0073,SP003,Tai nghe Bluetooth,Điện tử,3,790000,537200,0.05,Chi nhánh Hà Nội,Hà Nội,Offline
+HD008217,2023-10-25,KH0296,SP008,Chuột không dây,Điện tử,1,349000,237320,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD026893,2025-07-10,KH0557,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD006915,2023-09-13,KH0071,SP009,Bàn phím cơ,Điện tử,1,1190000,809200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD022448,2025-01-18,KH0701,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD009665,2023-12-03,KH0172,SP012,Máy xay sinh tố,Gia dụng,2,890000,605200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD018633,2024-10-04,KH0926,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.15,Chi nhánh Thủ Đức,TP.HCM,Online
+HD003483,2023-05-04,KH0178,SP008,Chuột không dây,Điện tử,3,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD031673,2025-12-18,KH0641,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD001205,2023-02-04,KH0457,SP034,Mật ong 500ml,Thực phẩm,2,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD018175,2024-09-18,KH1097,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD030785,2025-11-24,KH0709,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.1,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD022485,2025-01-19,KH0493,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD006541,2023-08-30,KH0758,SP037,Thảm yoga,Thể thao,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD029468,2025-10-14,KH0792,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD000041,2023-01-02,KH0021,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD011099,2024-01-07,KH0013,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD023382,2025-02-19,KH0547,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD026111,2025-06-08,KH0067,SP015,Máy lọc nước,Gia dụng,2,4590000,3121200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD024253,2025-03-26,KH0218,SP013,Nồi cơm điện,Gia dụng,2,1290000,877200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD029759,2025-10-24,KH0057,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD015565,2024-06-11,KH0313,SP042,Vợt cầu lông,Thể thao,2,549000,373320,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD031941,2025-12-25,KH0030,SP016,Ấm siêu tốc,Gia dụng,2,390000,265200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD000548,2023-01-16,KH0129,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Online
+HD009931,2023-12-08,KH1072,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD016467,2024-07-16,KH0605,SP019,Áo sơ mi nam,Thời trang,1,499000,339320,0.0,Chi nhánh Thủ Đức,TP.HCM,Online
+HD010988,2024-01-03,KH1141,SP008,Chuột không dây,Điện tử,1,349000,237320,0.15,Chi nhánh Quận 1,TP.HCM,Online
+HD006365,2023-08-24,KH0503,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.1,Chi nhánh Hà Nội,Hà Nội,Online
+HD014486,2024-05-04,KH0643,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD023329,2025-02-17,KH0754,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD005905,2023-08-07,KH0833,SP022,Túi xách nữ,Thời trang,1,890000,605200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD020633,2024-12-02,KH0642,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD010724,2023-12-27,KH1119,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD000365,2023-01-10,KH0896,SP035,Gạo ST25 5kg,Thực phẩm,3,139000,94520,0.05,Chi nhánh Hà Nội,Hà Nội,Offline
+HD008973,2023-11-15,KH0264,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD021084,2024-12-13,KH0667,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.05,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD000515,2023-01-15,KH0191,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD020935,2024-12-09,KH0703,SP031,Cà phê hạt 1kg,Thực phẩm,1,289000,196520,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD016008,2024-06-28,KH0173,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,3,149000,101320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD006528,2023-08-30,KH0032,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD015834,2024-06-20,KH1094,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD029020,2025-09-30,KH0562,SP033,Hạt điều rang 500g,Thực phẩm,1,219000,148920,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD018561,2024-10-02,KH0435,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD007687,2023-10-08,KH0823,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.0,Chi nhánh Quận 1,TP.HCM,Online
+HD000316,2023-01-09,KH0417,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD004827,2023-06-25,KH0080,SP021,Giày sneaker,Thời trang,1,1290000,877200,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD011005,2024-01-04,KH0488,SP015,Máy lọc nước,Gia dụng,1,4590000,3121200,0.0,Chi nhánh Quận 1,TP.HCM,Offline
+HD013581,2024-03-31,KH0305,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.1,Chi nhánh Quận 1,TP.HCM,Offline
+HD025734,2025-05-22,KH0847,SP004,Loa Soundbar,Điện tử,1,2490000,1693200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD005717,2023-07-30,KH0961,SP034,Mật ong 500ml,Thực phẩm,1,189000,128520,0.15,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD000363,2023-01-10,KH0864,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD003469,2023-05-03,KH0927,SP025,Kem chống nắng,Mỹ phẩm,1,329000,223720,0.15,Chi nhánh Quận 1,TP.HCM,Online
+HD006560,2023-08-31,KH0172,SP017,Bộ nồi inox 3 chiếc,Gia dụng,3,990000,673200,0.15,Chi nhánh Thủ Đức,TP.HCM,Online
+HD007263,2023-09-25,KH0093,SP007,Cáp HDMI 2m,Điện tử,2,149000,101320,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD007395,2023-09-29,KH0675,SP026,Sữa rửa mặt,Mỹ phẩm,1,189000,128520,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD000364,2023-01-10,KH0890,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.1,Chi nhánh Hà Nội,Hà Nội,Offline
+HD009427,2023-11-27,KH0611,SP036,Dầu ô liu 500ml,Thực phẩm,1,169000,114920,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD031829,2025-12-22,KH0635,SP011,Nồi chiên không dầu,Gia dụng,1,1890000,1285200,0.0,Chi nhánh Hà Nội,Hà Nội,Online
+HD020195,2024-11-20,KH0091,SP042,Vợt cầu lông,Thể thao,1,549000,373320,0.05,Chi nhánh Thủ Đức,TP.HCM,Online
+HD025358,2025-05-07,KH0783,SP003,Tai nghe Bluetooth,Điện tử,1,790000,537200,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD022725,2025-01-26,KH0305,SP035,Gạo ST25 5kg,Thực phẩm,1,139000,94520,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD002320,2023-03-19,KH0853,SP008,Chuột không dây,Điện tử,2,349000,237320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD014781,2024-05-14,KH0776,SP017,Bộ nồi inox 3 chiếc,Gia dụng,1,990000,673200,0.0,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD020368,2024-11-25,KH0136,SP023,Áo khoác gió,Thời trang,2,790000,537200,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Online
+HD019461,2024-10-30,KH0348,SP007,Cáp HDMI 2m,Điện tử,1,149000,101320,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD021042,2024-12-12,KH0364,SP029,Dầu gội 650ml,Mỹ phẩm,1,179000,121720,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD005420,2023-07-18,KH0820,SP028,Son môi,Mỹ phẩm,1,259000,176120,0.0,Chi nhánh Hà Nội,Hà Nội,Offline
+HD016230,2024-07-07,KH0023,SP030,Mặt nạ giấy (hộp 10),Mỹ phẩm,1,149000,101320,0.05,Chi nhánh Cần Thơ,Cần Thơ,Offline
+HD030687,2025-11-21,KH0936,SP020,Váy đầm nữ,Thời trang,1,690000,469200,0.15,Chi nhánh Hà Nội,Hà Nội,Offline
+HD003498,2023-05-04,KH0771,SP008,Chuột không dây,Điện tử,1,349000,237320,0.0,Chi nhánh Đà Nẵng,Đà Nẵng,Offline
+HD011983,2024-01-31,KH0605,SP039,Xe đạp thể thao,Thể thao,1,5900000,4012000,0.0,Chi nhánh Thủ Đức,TP.HCM,Offline
+HD020653,2024-12-02,KH1064,SP006,Máy tính bảng,Điện tử,1,4290000,2917200,0.15,Chi nhánh Cần Thơ,Cần Thơ,Offline
