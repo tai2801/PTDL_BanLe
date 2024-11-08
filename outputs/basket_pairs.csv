@@ -1,0 +1,31 @@
+product_a,product_b,pair_invoices,support,confidence_a_to_b,confidence_b_to_a,lift
+Tai nghe Bluetooth,Điện thoại tầm trung,207,0.0064,0.1651,0.4461,11.463
+Loa Soundbar,Tivi 43 inch,237,0.0074,0.1783,0.4684,11.356
+Balo leo núi,Laptop văn phòng,136,0.0042,0.1149,0.307,8.355
+Bộ nồi inox 3 chiếc,Nồi chiên không dầu,322,0.01,0.2434,0.2993,7.288
+Cáp HDMI 2m,Tivi 43 inch,288,0.0089,0.1143,0.5692,7.281
+Chuột không dây,Laptop văn phòng,218,0.0068,0.0883,0.4921,6.42
+Cáp HDMI 2m,Loa Soundbar,198,0.0061,0.0786,0.149,1.906
+Balo leo núi,Chuột không dây,126,0.0039,0.1064,0.051,1.388
+Máy xay sinh tố,Điện thoại tầm trung,19,0.0006,0.0178,0.0409,1.233
+Laptop văn phòng,Quạt điều hòa,16,0.0005,0.0361,0.016,1.167
+Bộ nồi inox 3 chiếc,Laptop văn phòng,21,0.0007,0.0159,0.0474,1.155
+Laptop văn phòng,Máy tính bảng,15,0.0005,0.0339,0.015,1.091
+Túi xách nữ,Tạ tay 5kg (cặp),38,0.0012,0.0354,0.0362,1.088
+Máy lọc nước,Tạ tay 5kg (cặp),36,0.0011,0.0353,0.0343,1.085
+Áo khoác gió,Điện thoại tầm trung,16,0.0005,0.0155,0.0345,1.076
+Túi xách nữ,Xe đạp thể thao,16,0.0005,0.0149,0.0347,1.042
+Giày chạy bộ,Xe đạp thể thao,15,0.0005,0.0148,0.0325,1.034
+Máy xay sinh tố,Váy đầm nữ,37,0.0011,0.0346,0.0337,1.014
+Balo leo núi,Quạt điều hòa,37,0.0011,0.0312,0.0371,1.01
+Quạt điều hòa,Vợt cầu lông,33,0.001,0.0331,0.0312,1.007
+Laptop văn phòng,Sữa rửa mặt,30,0.0009,0.0677,0.0138,1.005
+Máy tính bảng,Vợt cầu lông,33,0.001,0.033,0.0312,1.004
+Mật ong 500ml,Nồi chiên không dầu,75,0.0023,0.0332,0.0697,0.994
+Hạt điều rang 500g,Xe đạp thể thao,31,0.001,0.0142,0.0672,0.992
+Balo leo núi,Máy lọc nước,37,0.0011,0.0312,0.0363,0.988
+Chảo chống dính,Dầu ô liu 500ml,73,0.0023,0.0679,0.033,0.988
+Bộ nồi inox 3 chiếc,Son môi,89,0.0028,0.0673,0.0405,0.985
+Máy xay sinh tố,Xe đạp thể thao,15,0.0005,0.014,0.0325,0.98
+Máy lọc nước,Trà ô long 500g,66,0.002,0.0648,0.0309,0.978
+Máy lọc nước,Máy xay sinh tố,33,0.001,0.0324,0.0308,0.975

@@ -1,0 +1,43 @@
+{
+  "revenue": 72511813550.0,
+  "profit": 22115189790.0,
+  "profit_margin_pct": 30.49874042213912,
+  "orders": 32222,
+  "customers": 1200,
+  "products": 42,
+  "items_sold": 79501,
+  "aov": 2250382.147290671,
+  "avg_items_per_order": 2.467289429582273,
+  "repeat_rate_pct": 83.66666666666667,
+  "date_from": "2022-01-01",
+  "date_to": "2024-12-31",
+  "data_quality": {
+    "rows_in": 61191,
+    "dropped_duplicates": 61,
+    "dropped_bad_date": 0,
+    "dropped_missing_id": 61,
+    "dropped_bad_quantity": 61,
+    "dropped_bad_price": 60,
+    "dropped_bad_cost": 0,
+    "rows_out": 60948,
+    "dropped_total": 243
+  },
+  "churn": {
+    "window_days": 120,
+    "churn_rate_pct": 28.833333333333332,
+    "n_churned": 346,
+    "best_model": "Random Forest",
+    "metrics": {
+      "Logistic Regression": {
+        "accuracy": 0.95,
+        "roc_auc": 0.9940230384698978
+      },
+      "Random Forest": {
+        "accuracy": 0.9766666666666667,
+        "roc_auc": 0.9965768311236689
+      }
+    },
+    "n_high_risk_active": 4,
+    "revenue_at_risk": 105683900.0
+  }
+}
